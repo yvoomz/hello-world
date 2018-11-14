@@ -1,5 +1,6 @@
 # hello-world
 The first repository
 
-add some informations.
+Add some informations.
+
 OK
